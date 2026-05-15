@@ -10,8 +10,8 @@ Tipzza is built on the core principle of decentralized financial freedom. To ens
 
 The Tipzza ecosystem relies on a lean, gas-optimized smart contract architecture designed to maximize processing speed and eliminate platform intermediaries.
 
-* **`TipzzaCore.sol`**: Manages direct, immutable peer-to-peer micro-tips. It ensures that 100% of the funds route directly from the supporter's wallet straight to the recipient's address instantly with zero custody.
-* **`TipzzaNFT.sol`**: Manages community-driven crowdfunding utilities. This contract allows creators to launch utility-backed digital assets, enabling trustless capital raising directly from their community.
+* **`TipzzaRouter.sol`**: Manages direct, immutable peer-to-peer micro-tips. It ensures that 100% of the funds route directly from the supporter's wallet straight to the recipient's address instantly with zero custody.
+* **`TipzzaCampaigns.sol`**: Manages community-driven crowdfunding utilities. This contract allows creators to launch utility-backed digital assets, enabling trustless capital raising directly from their community.
 
 ---
 
