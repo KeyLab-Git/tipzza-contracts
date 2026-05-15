@@ -17,7 +17,6 @@ The Tipzza ecosystem relies on a lean, gas-optimized smart contract architecture
 
 ## 🚀 Deployed Contract Addresses
 
-> ⚠️ **Beta Phase Notice**: Tipzza is currently in its live public Beta testing phase. The addresses below point to our verified testnet environments. Always double-check these addresses before interacting with the protocol layers.
 
 | Contract | Network | Verified Explorer Address |
 | :--- | :--- | :--- |
