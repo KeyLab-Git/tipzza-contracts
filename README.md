@@ -30,12 +30,4 @@ The Tipzza ecosystem relies on a lean, gas-optimized smart contract architecture
 
 ---
 
-## 🛠️ Tech Stack & Development
 
-This repository contains the source code for the Tipzza smart contracts.
-
-### Installation
-If you wish to review or test the contracts locally:
-```bash
-git clone [https://github.com/YOUR-ORGANIZATION/tipzza-contracts.git](https://github.com/YOUR-ORGANIZATION/tipzza-contracts.git)
-cd tipzza-contracts
